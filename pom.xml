@@ -28,6 +28,7 @@
     <artifactId>wrap-text</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>Wrapping Service</name>
+    <packaging>war</packaging>
     <description>Wraps text is LAPPS Data objects.</description>
     <url>https://github.com/lappsgrid-services/org.anc.lapps.wrap-text</url>
     <licenses>
